@@ -20,7 +20,7 @@ A modern intercity carpooling platform that connects commuters for convenient an
 
 ### 🏨 HotelPOS (Open Source)
 Creating a free, open-source POS system for hotels and restaurants that's easy to set up and navigate. Running locally on users' machines with a clean, intuitive UI.
-> [Check out DutchR](https://github.com/zaidkaladia/HotelPOS)
+> [Check out HotelPOS](https://github.com/zaidkaladia/HotelPOS)
 
 
 ### 🧑‍💻 FMJ (Find Me a Job)
