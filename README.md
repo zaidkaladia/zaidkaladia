@@ -41,12 +41,16 @@ My knowledge base where I document in-depth tutorials and insights on various te
 
 🏀 Basketball | 🤖 ML tinkerer | 👨‍💻 Open source | 📚 Learning system design
 
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=zaidkaladia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaidkaladia&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div> 
+-->
 
 ## 🌐 Let's Connect!
 
@@ -54,7 +58,6 @@ My knowledge base where I document in-depth tutorials and insights on various te
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-kaladia/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kaladiazaid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://zaidkaladia.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidkaladia@example.com)
 
 </div>
